@@ -118,7 +118,7 @@ Keterangan:
 | Keterangan | Informasi |
 |---|---|
 | **Nama** | Hildyah Maretasya Araffad |
-| **NIM** | 123140171 |
+| **NIM** | 123140151 |
 | **Kelas** | Pengembangan Aplikasi Mobile RA |
 | **Program Studi** | Teknik Informatika |
 | **Institusi** | Institut Teknologi Sumatera |
