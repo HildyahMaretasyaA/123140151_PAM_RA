@@ -48,8 +48,6 @@ Aplikasi dikembangkan menggunakan **Compose Multiplatform** dengan pemisahan ant
 | Nama | *Hildyah Maretasya Araffad* |
 | Title | *Mahasiswa Teknik Informatika* |
 | Email | *hildyah.123140151@student.itera.ac.id* |
-| Telepon | *+62 822-8069-7530* |
-| Lokasi | *Bandar Lampung, Indonesia* |
 | Website / GitHub | *github.com/HildyahMaretasyaA* |
 
 ---
