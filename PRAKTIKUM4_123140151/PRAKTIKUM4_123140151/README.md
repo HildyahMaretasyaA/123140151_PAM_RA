@@ -17,10 +17,12 @@ Aplikasi dikembangkan menggunakan **Compose Multiplatform** dengan pemisahan ant
 ---
 
 ## Screenshot
+<img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/c961d0d9-afab-4147-82c8-bfd9e2f8311d" />
+<img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/b351e834-7dd1-4c16-a705-72016fa81d0b" />
+<img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/7a10e282-982b-4031-803b-0f0e2b162671" />
+<img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/f219cd4d-bd6b-4dc5-9731-38001a456424" />
+<img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/769e741f-3c0e-47f3-acc2-fbf84df32a8b" />
 
-| Profile View | Edit Profile | Dark Mode |
-|---|---|---|
-| Profile View | Edit Profile | Dark Mode |
 
 ---
 
